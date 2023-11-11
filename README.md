@@ -35,7 +35,7 @@ Note: I performed data cleaning using Microsoft Excel.
    
 ![image](https://github.com/Tanpepper29/DATA-VISUALIZATION-/assets/137109080/93735b68-ec7e-45a5-969f-931cbe60f62c)
 
-**INSIGHTS**: My analysis reveals exceptional growth during specific months. For the first 8 months, revenue maintains a consistent average of around £685k. However, a substantial upturn in revenue begins in September, with a 40% increase from the previous month.  This positive trend continues till November, reaching the highest monthly revenue of £1.5m. This analysis shows the impact of seasonality on retail store sales, particularly observed in the final four months of the year.
+**INSIGHTS**: My analysis reveals exceptional growth during specific months. For the first 8 months, revenue maintains a consistent average of around £685k. However, a substantial upturn in revenue begins in September, with a 40% increase from the previous month.  This positive trend continues till November, reaching the highest monthly revenue of £1.5m. This analysis shows the impact of seasons on retail store sales, particularly observed in the final four months of the year.
 
 2. The CMO is interested in viewing the top 10 countries which are generating the highest revenue for the year 2011 only. Additionally, the CMO is also interested in viewing the quantity sold along with the revenue generated. The CMO does not want to have the United Kingdom in this visual.
    
@@ -47,7 +47,7 @@ Note: I performed data cleaning using Microsoft Excel.
    
 ![image](https://github.com/Tanpepper29/DATA-VISUALIZATION-/assets/137109080/3eaae579-6b4c-4fde-bc9c-a53226712203)
 
-**INSIGHTS**: In this analysis, the map chart provides a visual representation of revenue distribution among various regions. Apart from the United Kingdom, countries such as the Netherlands, Ireland, Germany, France, and Australia demonstrate potentials for a significant revenue. It is recommended to allocate more investments in these regions to increase demand for products. Additionally, the map shows a concentration of sales in the European region, with little activity in the American region. Surprisingly, there is currently no demand for our products in Africa, Asia, and Russia. Implementing a new strategy tailored to these regions has the potential to boost sales revenue and profitability.
+**INSIGHTS**: In this analysis, the map chart provides a visual representation of revenue distribution among various regions. Apart from the United Kingdom, countries such as the Netherlands, Ireland, Germany, France, and Australia demonstrate potentials for a substantial revenue. It is recommended to allocate more investments in these regions to increase demand for products. Additionally, the map shows a concentration of sales in the European region, with little activity in the American region and there is currently no demand for the store's products in Africa, Asia, and Russia. Implementing a new strategy tailored to these regions has the potential to boost sales revenue and profitability.
 
 4. The CMO of the online retail store wants to view the information on the top 10 customers by revenue for the year 2011. He is interested in a visual that shows the greatest revenue generating customer at the start and gradually declines to the lower revenue generating customers. The CMO wants to target the higher revenue generating customers and ensure that they remain satisfied with their products.
    
