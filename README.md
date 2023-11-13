@@ -17,6 +17,7 @@ Q4- The CMO of the online retail store wants to view the information on the top 
 # Dataset
 
 **Online Retail-** The online retail dataset consists of the following column names: Invoice No, Stock code, Quantity, Invoice Date, Unit Price, Customer ID, and Country.
+The raw data contains 488,179 rows and 11 columns.
 
 # Data cleaning and transformation
 * I filtered out quantities below 1 in the 'Quantity' column.
