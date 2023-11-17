@@ -16,7 +16,7 @@ Q4- The CMO of the online retail store wants to view the information on the top 
 
 # Dataset
 
-**Online Retail-** The online retail dataset consists of the following column names: Invoice No, Stock code, Quantity, Invoice Date, Unit Price, Customer ID, and Country.
+**Online Retail-** The dataset consists of the following column names: Invoice No, Stock code, Quantity, Invoice Date, Unit Price, Customer ID, and Country.
 The raw data contains 488,179 rows and 11 columns.
 
 # Data cleaning and transformation
@@ -38,6 +38,7 @@ Q1- The CEO of the retail store is interested to view the time series of the rev
 
 **Insight**: My analysis reveals exceptional growth during specific months. For the first 8 months, revenue maintains a consistent average of around £685k. However, a substantial upturn in revenue begins in September, with a 40% increase from the previous month.  This positive trend continues till November, reaching the highest monthly revenue of £1.5m. This analysis shows the impact of seasons on retail store sales, particularly observed in the final four months of the year.
 
+# 
 
 Q2- The CMO is interested in viewing the top 10 countries which are generating the highest revenue for the year 2011 only. Additionally, the CMO is also interested in viewing the quantity sold along with the revenue generated. The CMO does not want to have the United Kingdom in this visual.
    
@@ -45,6 +46,7 @@ Q2- The CMO is interested in viewing the top 10 countries which are generating t
 
 **Insight**: The countries leading in revenue performance for the store are Netherlands, EIRE, Germany, France, Australia, Spain, Switzerland, Belgium, Sweden, and Norway. The United Kingdom is not included in this analysis, given its already high demand. The emphasis is placed on countries where there is room for increased demand. These top performing nations consistently showcase the store's strong market presence and customer engagement across different regions. It is recommended to concentrate efforts on these markets and further capitalize on their sales potential.      
 
+# 
 
 Q3- The CEO is looking to gain insights on the demand for their products for the year 2011. He wants to look at all countries and see which regions have the greatest demand for their products. Once the CEO gets an idea of the regions that have high demand, he will initiate an expansion strategy which will allow the company to target these areas and generate more business from these regions. He wants to view the entire data on a single view without the need to scroll or hover over the data points to identify the demand. There is no need to show data for the United Kingdom as the CEO is more interested in viewing the countries that have expansion opportunities.
    
@@ -52,7 +54,7 @@ Q3- The CEO is looking to gain insights on the demand for their products for the
 
 **Insight**: In this analysis, the map chart provides a visual representation of revenue distribution among various regions. Apart from the United Kingdom, countries such as the Netherlands, Ireland, Germany, France, and Australia demonstrate potentials for a substantial revenue. It is recommended to allocate more investments in these regions to increase demand for products. Additionally, the map shows a concentration of sales in the European region, with little activity in the American region and no demand for the store's products in Africa, Asia, and Russia. Implementing a new strategy tailored to these regions has the potential to boost sales revenue and profitability.
 
-
+# 
 
 Q4- The CMO of the online retail store wants to view the information on the top 10 customers by revenue for the year 2011. He is interested in a visual that shows the greatest revenue generating customer at the start and gradually declines to the lower revenue generating customers. The CMO wants to target the higher revenue generating customers and ensure that they remain satisfied with their products.
    
